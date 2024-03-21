@@ -14,6 +14,8 @@ _cache
 _site/
 ehthumbs.db
 vendor
+*.iml
+.idea
 
 # To prevent accidental push of translations from
 # Transifex.
