@@ -51,7 +51,7 @@ segwit:
   features:
     receive:
       p2sh_wrapped: "true"
-      bech32: "false"
+      bech32: "true"
       bech32m: "true"
       default: "p2sh_wrapped"
     send:
